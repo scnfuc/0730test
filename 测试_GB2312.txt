@@ -1,0 +1,4 @@
+/* 中文测试 encoding=GB2312*/
+title '中文测试GB2312';
+proc print data=sashelp.class;
+run;
